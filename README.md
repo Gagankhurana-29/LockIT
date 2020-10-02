@@ -26,7 +26,7 @@ Example: if you set Period=10 min, then for 5:00 to 5:10, a unique key will be g
 <h3>Process for setting up LockIT:</h3>
 <p>LockIT includes 2 phases, One to set up the windows version (Main Lock) and another to set up the Android version (OTP key generator).</p>
 <h4>1. Windows Lock Setup (Windows):</h4>
-<h6>*****You can watch setupWindowsLock video for proper installation *****</h6>
+<h6>*****You can watch setupWindowsLock video for proper installation. *****</h6>
 <p>
 Step 1: Download the LockIT-WindowsVersion folder <br>
 Step 2: Place the LockIT-WindowsVersion Folder in C:// drive <br>
